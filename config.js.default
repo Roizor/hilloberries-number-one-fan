@@ -1,4 +1,4 @@
 module.exports = {
     pasteUrl: '' // Replace this with a link to a **raw** JSON file formatted like so:
-                // [{ver:1,pack:"https://example.com"}]
+                // [{"ver":1,"pack":"https://example.com"}]
 }
